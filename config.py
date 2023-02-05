@@ -16,7 +16,7 @@ OWNER_ID = int(getenv("OWNER_ID", "5905205047"))
 PING_IMG = getenv("PING_IMG", "https://te.legra.ph/file/6f99c49bdb4679acad717.jpg")
 START_IMG = getenv("START_IMG", "https://te.legra.ph/file/f8ba75bdbb9931cbc8229.jpg")
 
-SESSION = getenv("SESSION", "BQFmMQUAsAsPegNnqz-R2kSA9OtbNi5ro_mbAcCXaEVzxg5ZAJieqpHY-pcZL3Mbt-tsPIWzjyfFSK6dOfA0e4GTLJodX6viBlhxglnZci6PPxriUymBt5ihe7HnkOxyN-k6X5XdeQBNKQtvvOKfk_c3iNAoXhJeLGwZnWFwciwNb5R4wpqTJ0CQBeu9iBosjSyWZ0wnlFizAlNuL9UF5s_FufxuOvmyw06V-hidRzyzxNCIUfBWeX4htuVpQh6Iu-oMXC4YOeJ7GYzphswkA-bGON7HPQOqngmFNiPY_WDf4-Z4F7qhSFAmJDvyxsPq--lf4A5HpzFG02Fw7CTkrHY0rz-LBgAAAAFTyworAA")
+SESSION = getenv("SESSION", "BQFmMQUAnA7F5B8dsZPC34as0K-EdvgGddViQiMPw_LPn4PHD-h7C6awIwzrK7krccj2BxA1afl-jsLVSQM7lapMwQqFe-tOdBCMY77o6-FdXueZsQamexg0NxMRXM4azp2UdofakqKuHpYH527toscQykNPa_Y48FfXk9hTqy458fQxRn-JP3_T6uff59Mnk36nwsqCsUBwLOhB6lt4SfvQEJW7sJ5HXUYq8beDHkAeUgyBtUveR6XR0YlYIzhuss-Mgf6W9tK07-ItulgwCFvaHDSKFia72Pw7XyA1ScWuqZoZMe2yO-kbsn1BUPT9PZN9akT9CUs7ZaifW-TW3pJnu2JRMQAAAAFTyworAA")
 
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "FlorenzaNetwork")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "zaapNetwork")
